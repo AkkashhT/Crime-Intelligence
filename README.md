@@ -205,7 +205,7 @@ http://localhost:5173
 
 # 👨‍💻 Author
 
-**Keerthana K**
+**Akash T**
 
 AI & Machine Learning Enthusiast | Full Stack Developer | ML Engineer Aspirant
 
