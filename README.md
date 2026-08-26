@@ -212,5 +212,3 @@ AI & Machine Learning Enthusiast | Full Stack Developer | ML Engineer Aspirant
 ---
 
 ⭐ If you found this project useful, consider giving it a star!
-
-akash T
