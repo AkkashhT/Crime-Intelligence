@@ -272,3 +272,6 @@ if __name__ == "__main__":
 
 def ntng():
     return ntng;
+
+def ntng1():
+    return 1;
